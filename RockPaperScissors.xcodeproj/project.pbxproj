@@ -14,6 +14,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FD3E338228B6CDF500627F8D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		FD3E338328B6D07300627F8D /* demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = demo.gif; sourceTree = "<group>"; };
 		FD432DF128B19E8200573AE6 /* RockPaperScissors.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RockPaperScissors.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD432DF428B19E8200573AE6 /* RockPaperScissorsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RockPaperScissorsApp.swift; sourceTree = "<group>"; };
 		FD432DF628B19E8200573AE6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -35,6 +37,8 @@
 		FD432DE828B19E8200573AE6 = {
 			isa = PBXGroup;
 			children = (
+				FD3E338228B6CDF500627F8D /* README.md */,
+				FD3E338328B6D07300627F8D /* demo.gif */,
 				FD432DF328B19E8200573AE6 /* RockPaperScissors */,
 				FD432DF228B19E8200573AE6 /* Products */,
 			);
